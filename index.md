@@ -3,9 +3,9 @@ share: true
 ---
 
 
-## Hello Innovators
+# Hello Innovators
 This is the first idea: Think broadly and freely with no further expectation but new ideas.
 *AI taught me this.*
 
 ## Links to Ideas
-- [naturehood](./naturehood.md)
+- [Naturehood](./naturehood.md)
