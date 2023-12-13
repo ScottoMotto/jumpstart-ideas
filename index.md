@@ -9,4 +9,4 @@ This is the first idea: Think broadly and freely with no further expectation but
 
 ## Links to Ideas
 - [Naturehood](./naturehood.md)
-- [Consciousness](consciousness.md)
+- [Consciousness](./consciousness.md)

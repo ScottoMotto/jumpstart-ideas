@@ -2,6 +2,7 @@
 share: true
 ---
 
+## Naturehood
 
 Naturehood is a mobile application designed to promote environmental awareness and conservation by providing users with personalized, interactive experiences that connect them with nature. The app utilizes cutting-edge technology, including artificial intelligence, augmented reality, and image recognition, to offer a unique and engaging user experience.
 
