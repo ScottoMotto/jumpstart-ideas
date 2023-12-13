@@ -8,4 +8,4 @@ This is the first idea: Think broadly and freely with no further expectation but
 *AI taught me this.*
 
 ## Links to Ideas
-- [[./naturehood|naturehood]]Naturehood
+- [[naturehood|naturehood]]
